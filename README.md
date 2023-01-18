@@ -464,7 +464,7 @@ __SECRET_EMOTION__.injectGlobal(`
 
 ### AMOLED Theme on Desktop & Web
 
-Activates the AMOLED theme from mobile on desktop and web, which is uses darker colors than the normal theme.
+Activates the AMOLED theme from mobile on desktop and web, which uses darker colors than the normal theme.
 
 <details>
 <summary>Expand</summary>
